@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34581" started-at="2018-07-27T05:56:30Z" finished-at="2018-07-27T05:57:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34581" started-at="2018-07-27T05:56:30Z" finished-at="2018-07-27T05:57:04Z">
+      <class name="Datadriventestformercurydemoaut">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:Datadriventestformercurydemoaut@5e5792a0]" name="testlogin" duration-ms="34538" started-at="2018-07-27T05:56:30Z" finished-at="2018-07-27T05:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- Datadriventestformercurydemoaut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
