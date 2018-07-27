@@ -16,6 +16,7 @@ public class NewTest {
   public void xyz()
   {
 	  System.out.println( "in xyz()");
+	   System.out.println( "hi how are ()");
   }
   
 }
